@@ -3,7 +3,6 @@
 import gtk
 import os
 import sys
-import gobject
 import pango
 from save_function import save_sticky, get_project_directory
 from icons import set_pin_image
